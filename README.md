@@ -9,6 +9,7 @@ pip install -r requirements.txt
 ```
 
 ## Запуск
+запуск .exe или
 
 ```bash
 python main.py
